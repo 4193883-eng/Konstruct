@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+
+}
+
+.main{
+    height: 100vh;
+    background-image: url('../IMG/main-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    text-align: center;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.text-title{
+    color: white;
+    font-family: 'Bebas';
+    font-weight: bold;
+}
+
+.text-subtitle{
+    color: white;
+    font-family: 'Bebas';
+    font-weight: normal;
+}
